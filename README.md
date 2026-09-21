@@ -8,7 +8,7 @@ A mood-aware movie discovery platform that reshapes itself around how you want t
 
 ## 📖 About
 
-CineVibe is a React-based movie discovery app built as a learning project. Instead of scrolling through endless poster grids, you pick a **mood** — like *Mind-Bending*, *Emotional*, or *Adrenaline* — and the app reshapes its colors, recommendations, and featured films to match.
+CineVibe is a React-based movie discovery platform developed as part of my frontend development internship. It provides mood-based movie discovery, interactive recommendations, favorites, watchlist functionality, cinematic UI effects, and responsive design. Instead of scrolling through endless poster grids, you pick a **mood** — like *Mind-Bending*, *Emotional*, or *Adrenaline* — and the app reshapes its colors, recommendations, and featured films to match.
 
 ### What it does
 
